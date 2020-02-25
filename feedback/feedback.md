@@ -9,6 +9,10 @@ git hub est vraiment génial
 
 ## Feedback
 
+Merci Aymeric, mais je crois qu'il va me falloir plus que 2 jours pour pouvoir giter!
+La formation était chouette quand même et tes explications claires.
+
+
 Super cours mais matière très dense, personnellement, il me faudrait encore 5 jours :)
 Je pense qu'il aurait été bien de rester sur console, mais notre niveau informatique n'est paeut-être pas assez élevé pour ça...
 
