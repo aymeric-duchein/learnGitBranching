@@ -1,3 +1,12 @@
+feed
+bonjour je suis madame kaouane j'habite le 20 eme
+je fais une formation de dévelopeuse java
+j'ai vraiment compris beaucoup de chose avec cette formation
+je tien a te remercier
+j'ai vraiment aimé ta methode ... on a beaucoup appris
+reviens le plus vite possible stp pour une nouvelle formation
+git hub est vraiment génial
+
 ## Feedback
 
 Super cours mais matière très dense, personnellement, il me faudrait encore 5 jours :)
@@ -35,9 +44,15 @@ C'était clair, expliqué étape par étape. C'était une bonne idée de mélang
 
 <!--Sarah-->
 Chouette formation! :)
+
+Les jeux pratiques étaient utiles pour mieux aborder l'abstraction de Github. 
+J'aurais bien creuser un peu plus Git en ligne de commande mais la compréhension du groupe prime et la curiosité est au moins éveillée donc à moi de jouer! 
+Merci pour ta patience et les tips + la découverte des Duchess
+
 Les jeux pratiques étaient utiles pour mieux aborder l'abstraction de Github.
 J'aurais bien creuser un peu plus Git en ligne de commande mais la compréhension du groupe prime et la curiosité est au moins éveillée donc à moi de jouer!
 Merci pour ta patience et les tips + la découverte des Duchess!
+
 
  
 merciiii Aymeric
