@@ -10,7 +10,19 @@
 - : 1ère journée un peu lente
 - : j'aurai aimé plus creuser la pratique de GitHub Desktop
 
+<!--Vanessa-->
+merci  pour la formation 
+
+j'ai appris à utiliser l'outil qui me semble essentiel et super puissant.
+
+Tes explications était claires et tes appartées très interessantes.
+
+le tous a été très instructif
+
+merci.
+
 <!--Delphine-->
+
 Bonjour Aymerick!
 
 Merci pour cette formation.
