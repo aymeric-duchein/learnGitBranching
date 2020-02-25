@@ -14,6 +14,11 @@ git hub est vraiment génial
 
 
 ## Feedback
+aycha
+Mon apprentissage GitHub
+tu me vois maintenant ???
+j'ai l'impression d'etre dans le noir !!!
+un veritable maieutique ce cours!!!
 
 
 Intéressant de débuter par les commandes git dans le terminal même si un peu perturbant quand on a déjà commencé à se familiariser avec Github Desktop... Du coup on ne comprenait pas forcément le lien... qui s'est éclairci au bout de la première matinée.
@@ -78,6 +83,7 @@ Merci pour ta patience et les tips + la découverte des Duchess!
 
 
  
+
 merciiii Aymeric
 un petit pas pour la Femme un grand pas pour l'humanité
 
