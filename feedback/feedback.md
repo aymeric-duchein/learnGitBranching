@@ -14,6 +14,23 @@ git hub est vraiment génial
 
 
 ## Feedback
+
+feature-Alix
+# La base
+Il est très *important* de savoir que :
+## rien ne sert de courir
+## Maître Renard en son arbre perché
+Tenait en son bec un fromage.
+###bec
+####b
+####e
+####c
+###fromage
+####fro
+####mage
+Je pense que de toute façon on ne peut pas devenir expertes git en 2 jours, mais le cours a bien clarifié le fonctionnement (pour moi). J'aimerais bien apprendre à utiliser le git depuis le terminal mais ce n'est pas une priorité. Il faut que je pratique beaucoup pour que le fonctionnement s'ancre dans ma tête.
+Alix.
+=======
 aycha
 Mon apprentissage GitHub
 tu me vois maintenant ???
@@ -30,6 +47,7 @@ Dans tous les cas, hâte de commencer à travailler avec des collaborateurs.ices
 
 Merci Aymeric, mais je crois qu'il va me falloir plus que 2 jours pour pouvoir giter!
 La formation était chouette quand même et tes explications claires.
+
 
 
 Super cours mais matière très dense, personnellement, il me faudrait encore 5 jours :)
@@ -88,3 +106,4 @@ merciiii Aymeric
 un petit pas pour la Femme un grand pas pour l'humanité
 
 
+gh-pages
