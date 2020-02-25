@@ -45,6 +45,11 @@ C'était clair, expliqué étape par étape. C'était une bonne idée de mélang
 <!--Sarah-->
 Chouette formation! :)
 
+Les jeux pratiques étaient utiles pour mieux aborder l'abstraction de Github.
+J'aurais bien creuser un peu plus Git en ligne de commande mais la compréhension du groupe prime et la curiosité est au moins éveillée donc à moi de jouer!
+Merci pour ta patience et la découverte des Duchess! 
+
+
 Les jeux pratiques étaient utiles pour mieux aborder l'abstraction de Github. 
 J'aurais bien creuser un peu plus Git en ligne de commande mais la compréhension du groupe prime et la curiosité est au moins éveillée donc à moi de jouer! 
 Merci pour ta patience et les tips + la découverte des Duchess
@@ -57,3 +62,4 @@ Merci pour ta patience et les tips + la découverte des Duchess!
  
 merciiii Aymeric
 un petit pas pour la Femme un grand pas pour l'humanité
+
