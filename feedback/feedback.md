@@ -10,7 +10,7 @@ Le contenu de la formation:
 L'orateur :
 - adapter au rythme de chacun 
 - bonne oration 
-- bonne partage de l'expérience dev 
+- bon partage de l'expérience dev 
 
 Suggestions: 
 - keep it going 
